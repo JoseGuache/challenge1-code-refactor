@@ -2,6 +2,8 @@
 
 ## Description
 
+- The purpose of this website is to serve as advertising for Horiseon Social Solution Services, Inc. by highlighting three main factors of their business. Seach Engine Optimization, Online Reputation Management, & Social Media Marketing. Once a part of the project, I improved the codebase for long-term sustainability by making sure some links that werent working functioned properly, replacing all divs with proper HTML semantics, adding alt text to images for accessibility purposes, significantly consolidating CSS to increase readability & efficiency, as well as adding comments to further explain codes function.
+
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
@@ -9,22 +11,15 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+![website screenshot 1-Top half](assets/images/usageSH1.png)
+![website screenshot 2-Bottom half](assets/images/usageSH2.png)
+
     ```
 
 ## Credits
@@ -36,8 +31,6 @@ Creator: Jose Guache
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
