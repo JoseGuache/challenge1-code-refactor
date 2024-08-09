@@ -55,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+/* Designates the height, width, margin-bottom & the size, position & image of the backgrond for the ID hero. */
 #hero {
     height: 800px;
     width: 100%;
@@ -64,21 +65,25 @@ p {
     background-position: center;
 }
 
+/* Adds float and designates margin-left for 1st and 3rd images in main section. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Adds float and designates margin-right for 2nd image in main section. */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Designates the width and margin-lft */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
 
 .benefits {
     margin-right: 20px;
